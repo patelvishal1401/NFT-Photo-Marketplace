@@ -14,7 +14,7 @@ const Header = () => (
             <li><a href="/my-photos" className={styles.link}> My Photos</a></li>
 
             {process.env.NODE_ENV !== 'photo_marketplace' && (
-              <li><a href="/photo-marketplace" className={styles.link}> Photo MarketPlace</a></li>
+              <li><a href="/photo-marketplace" className={styles.link}>Photo MarketPlace</a></li>
             )}
           </ul>
         <p className={styles.notice}>  Use Rinkeby Network For Transection</p>

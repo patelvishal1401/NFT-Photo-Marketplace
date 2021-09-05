@@ -6,7 +6,7 @@ const Footer = () => (
   <footer className={styles.footer}>
     <div className={styles.brand}>
       <div className={styles.created}>
-        NFT Photo Stocking
+        Photonft.shop - NFT Photo MarketPlace
       </div>
     </div>
   </footer>
